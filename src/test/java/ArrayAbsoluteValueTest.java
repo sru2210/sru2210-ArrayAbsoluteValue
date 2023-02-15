@@ -42,6 +42,6 @@ public class ArrayAbsoluteValueTest {
     public void abvTest4(){
         int[] nums = {9, 5, -4, 0, 2};
         int[] target = {9, 5, 4, 0, 2};
-        Assert.assertEquals(1,1);
+        Assert.assertEquals(1,0);
     }
 }
